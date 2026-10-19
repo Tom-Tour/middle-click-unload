@@ -29,6 +29,12 @@ Delete `config.js` and `defaults\pref\autoconfig.js` from the Firefox install fo
 - Firefox updates usually keep these files; if it stops working after an update, run `install.ps1` again.
 - Errors, if any, show up in the Browser Console (`Ctrl+Shift+J`).
 
+## Support
+
+If this saves you some tabs, you can [buy me a coffee on Ko-fi](https://ko-fi.com/tom_t).
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/tom_t)
+
 ## License
 
 Copyright (C) 2026 tom.tourbez
